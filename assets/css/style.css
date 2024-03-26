@@ -250,6 +250,21 @@ footer {
     width: 100%;
 }
 
+/* signup form */
+
+#signup {
+    width: 100%;
+    height: 800px;
+    padding-top: 150px;
+    margin-top: 500px;
+
+    background-image: url("../images/signup-image.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 75%;
+    flex-grow: 1;
+}
+
 /* media queries */
 
 @media screen and (max-width: 1200px) {
